@@ -6,8 +6,10 @@
 
 ## 📸 Aperçu
 <p align="center">
-  <img src="Lien_De_Ton_Image_1" width="200" alt="Capture 1" />
-  <img src="Lien_De_Ton_Image_2" width="200" alt="Capture 2" />
+  <img src="screenshots/ex_question.png" width="200" alt="Exemple de question" />
+  <img src="screenshots/eclaireur_prudent.png" width="200" alt="Profil 1 : L'éclaireur Prudent " />
+  <img src="screenshots/cible_confiante.png" width="200" alt=""Profil 2 : La Cible Confiante " />
+  <img src="screenshots/passager_intimide.png" width="200" alt=""Profil 3 : Le Passager Intimidé " />
 </p>
 
 ---
