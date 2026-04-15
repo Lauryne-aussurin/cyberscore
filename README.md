@@ -1,16 +1,41 @@
-# cyber_score_app
+# 🛡️ CyberScore
 
-A new Flutter project.
+> Application mobile réalisée pour le CMCS 2026 permettant de tester ses connaissances face aux menaces de cybersécurité.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Aperçu
+<p align="center">
+  <img src="Lien_De_Ton_Image_1" width="200" alt="Capture 1" />
+  <img src="Lien_De_Ton_Image_2" width="200" alt="Capture 2" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Fonctionnalités
+- 📝 **QCM Interactif** : Test de connaissances sur la sécurité numérique.
+- 📊 **Calcul de score** : Algorithme de diagnostic en fin de test.
+- 🎯 **Profils utilisateurs** : Définition de 3 profils (Passager intimidé, Cible confiante, Éclaireur prudent).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Stack Technique
+- **Framework** : Flutter (Dart)
+- **Design** : Material Design
+
+---
+
+## ⚙️ Installation & Lancement
+
+```bash
+# 1. Cloner le projet
+git clone [https://github.com/Lauryne-aussurin/cyberscore](https://github.com/Lauryne-aussurin/cyberscore)
+
+# 2. Accéder au dossier
+cd cyberscore
+
+# 3. Récupérer les dépendances
+flutter pub get
+
+# 4. Lancer l'application
+flutter run
