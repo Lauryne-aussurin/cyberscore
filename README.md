@@ -21,12 +21,6 @@
 
 ---
 
-## 🛠️ Stack Technique
-- **Framework** : Flutter (Dart)
-- **Design** : Material Design
-
----
-
 ## ⚙️ Installation & Lancement
 
 ```bash
